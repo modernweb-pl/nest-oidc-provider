@@ -1,10 +1,14 @@
 {
-  "name": "nest-oidc-provider",
+  "name": "@modernweb/nest-oidc-provider",
   "version": "1.1.1",
   "description": "oidc-provider module for Nest framework (node.js)",
   "author": "Adrian Cerbaro <adriancerbaro@gmail.com>",
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
   "homepage": "https://github.com/adrianbrs/nest-oidc-provider#readme",
   "repository": {
     "type": "git",
